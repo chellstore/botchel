@@ -3470,13 +3470,13 @@ case 'antibug':
 	        if (!isGroup) return reply(mess.only.group)
 			if (!isGroupAdmins) return reply(mess.only.admin)
 			if (!isBotGroupAdmins) return reply(mess.only.Badmin)
-					if (args.length < 1) return reply(`untuk mengaktifkan ketik : ${prefix}php 1`)
+					if (args.length < 1) return reply(`untuk mengaktifkan ketik : ${prefix}toxic 1`)
 					if (Number(args[0]) === 1) {
 						if (isAntiToxic) return reply('Sudah Aktif Kak')
 						antitoxic.push(from)
 						fs.writeFileSync('./database/toxic.json', JSON.stringify(antitoxic))
 						reply('Sukses mengaktifkan')
-						pemuda.sendMessage(from, `ALLERT!!! Php = kick`, text)
+						pemuda.sendMessage(from, `ALLERT!!! Toxic = kick`, text)
 					} else if (Number(args[0]) === 0) {
 						if (!isAntiToxic) return reply('Sudah Mati Kak')
 						var ini = antitoxic.indexOf(from)
