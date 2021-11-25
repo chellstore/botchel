@@ -7330,8 +7330,8 @@ case 'orderan':
        stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
 			
-       menu = `*Jika ingin anda order bot silahkan chat ke @${otod.split('@')[0]}*`
-       sendButLocation(from, `${menu}`, `${uwu}© Chellbot${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}sb`,buttonText:{displayText:'MAU ORDER BOT'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
+       menu = `*Jika anda berminat untuk sewa bot, silahkan chat ke @${otod.split('@')[0]}*`
+       sendButLocation(from, `${menu}`, `${uwu}© Chellbot${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}oakaoak`,buttonText:{displayText:'OKEY'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
 break
                     case 'jasher':
                     case 'js':
