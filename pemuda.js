@@ -3467,8 +3467,8 @@ case 'antibug':
 					break
 					
 					case 'toxic':
+			if (!isOwner && !mek.key.fromMe) return reply(mess.only.ownerB)		
 	        if (!isGroup) return reply(mess.only.group)
-			if (!isGroupAdmins) return reply(mess.only.admin)
 			if (!isBotGroupAdmins) return reply(mess.only.Badmin)
 					if (args.length < 1) return reply(`untuk mengaktifkan ketik : ${prefix}toxic 1`)
 					if (Number(args[0]) === 1) {
