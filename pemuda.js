@@ -6557,7 +6557,7 @@ chat.whatsapp.com/FXdVGZnjM6UENjlDUGn85F
 
 *#COPYLIST = YATIMM!!! AAMIIN...*
 `
-sendButLocation(from, `${menu}`, `${uwu}©Chellbot${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}payment`,buttonText:{displayText:'PAYMENT'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
+sendButLocation(from, `${menu}`, `${uwu}©Chellbot${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}orderan`,buttonText:{displayText:'ORDER BOT'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
 break
 
 //Nomer Dnaa yaa
@@ -7323,7 +7323,7 @@ case 'owner':
        menu = `MY OWNER @${otod.split('@')[0]}`
        sendButLocation(from, `${menu}`, `${uwu}© Chellbot${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}sb`,buttonText:{displayText:'MAU ORDER BOT'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
 break
-case 'owner':
+case 'orderan':
         ptod = "62822961308923@s.whatsapp.net"
         stod = `${sender}`
         uwu = '```'
