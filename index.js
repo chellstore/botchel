@@ -89,7 +89,7 @@ exec(`cd /sdcard/download && play *mp3`)
 			ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 			}
 			let buff = await getBuffer(ppimg)
-			masuk =`*Selamat Datang Di ${mdata.subject} \n\n*Silahkan intro ya*\nNama :\nUmur :\nAsal :\n *Semoga Betah yak 😉*\n\n*OPEN SEWA BOT*\nhttps://wa.me/message/BPIUZB6I6LEWN1 `
+			masuk =`*Selamat Datang Di ${mdata.subject}*\n\n*Silahkan intro ya*\nNama :\nUmur :\nAsal :\n *Semoga Betah yak 😉*\n\n*OPEN SEWA BOT*\nhttps://wa.me/62822961308923`
             pemuda.sendMessage(mdata.id, masuk, MessageType.text, { quoted: fkontakk, thumbnail: fs.readFileSync('./pemuda_1.jpg'), contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `Keluar Dari ${mdata.subject}`,body:"",mediaType:"2",thumbnail:buff,mediaUrl:`https://chat.whatsapp.com/HtOZC9r432KJ5WFvoDfD41`}}})
 			} else if (anu.action == 'remove') {
 			fkontakk = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '6283136505591-1604595598@g.us' } : {})}, message: { "contactMessage":{"displayName": `${mdata.subject}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;pemuda;;;\nFN:pemuda\nitem1.TEL;waid=62895211144821:62895211144821\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}
