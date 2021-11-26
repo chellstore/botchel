@@ -954,7 +954,7 @@ if (budy.includes("anjing")) {
 			    pemuda.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
 			}			
 			}			
-			if (budy.includes("kontol")) {
+			if (budy.includes("ontol")) {
         	if (!mek.key.fromMe){
 				if (!isGroup) return
 				if (!isAntiToxic) return
@@ -1656,6 +1656,207 @@ Silahkan memilih payment yang tersedia`,
                             {
                               "title": "QRIS",
                               "rowId": ""
+                           }
+                        ]
+                     }],
+ listType: 1
+}
+pemuda.sendMessage(from, listMsg, MessageType.listMessage, {contextInfo: { mentionedJid: [sender]},quoted:ftrol})
+break
+
+case '1bulan':
+stod = `${sender}`
+stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
+
+ listMsg = {
+ buttonText: 'CLICK HERE',
+ footerText: '*_©Chellbot_*',
+ description: `Hai kak @${sender.split('@')[0]}
+*Harga bot 1 bulan yaitu 7.000*
+*Jika berminat silahkan memilih payment yang tersedia*`,
+ sections: [
+                     {
+                      "title": `${jmn} - ${week} ${weton} - ${calender}`,
+ rows: [
+                          {
+                              "title": "DANA",
+                              "rowId": ""
+                           },                           
+                           {
+                              "title": "GOPAY",
+                              "rowId": ""
+                            },
+                            {
+                              "title": "QRIS",
+                              "rowId": ""
+                           }
+                        ]
+                     }],
+ listType: 1
+}
+pemuda.sendMessage(from, listMsg, MessageType.listMessage, {contextInfo: { mentionedJid: [sender]},quoted:ftrol})
+break
+case '2bulan':
+stod = `${sender}`
+stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
+
+ listMsg = {
+ buttonText: 'CLICK HERE',
+ footerText: '*_©Chellbot_*',
+ description: `Hai kak @${sender.split('@')[0]}
+*Harga bot 2 bulan yaitu 10.000*
+*Jika berminat silahkan memilih payment yang tersedia*`,
+ sections: [
+                     {
+                      "title": `${jmn} - ${week} ${weton} - ${calender}`,
+ rows: [
+                          {
+                              "title": "DANA",
+                              "rowId": ""
+                           },                           
+                           {
+                              "title": "GOPAY",
+                              "rowId": ""
+                            },
+                            {
+                              "title": "QRIS",
+                              "rowId": ""
+                           }
+                        ]
+                     }],
+ listType: 1
+}
+pemuda.sendMessage(from, listMsg, MessageType.listMessage, {contextInfo: { mentionedJid: [sender]},quoted:ftrol})
+break
+
+case 'permanen':
+stod = `${sender}`
+stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
+
+ listMsg = {
+ buttonText: 'CLICK HERE',
+ footerText: '*_©Chellbot_*',
+ description: `Hai kak @${sender.split('@')[0]}
+*Harga bot permanen yaitu 15.000*
+*Jika berminat silahkan memilih payment yang tersedia*`,
+ sections: [
+                     {
+                      "title": `${jmn} - ${week} ${weton} - ${calender}`,
+ rows: [
+                          {
+                              "title": "DANA",
+                              "rowId": ""
+                           },                           
+                           {
+                              "title": "GOPAY",
+                              "rowId": ""
+                            },
+                            {
+                              "title": "QRIS",
+                              "rowId": ""
+                           }
+                        ]
+                     }],
+ listType: 1
+}
+pemuda.sendMessage(from, listMsg, MessageType.listMessage, {contextInfo: { mentionedJid: [sender]},quoted:ftrol})
+break
+
+case 'sewabot':
+case 'sb':
+stod = `${sender}`
+stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
+
+ listMsg = {
+ buttonText: 'CLICK HERE',
+ footerText: '*_©Chellbot_*',
+ description: `Hai kak @${sender.split('@')[0]}
+❒ 🇸 🇪 🇼 🇦  🇧 🇴 🇹 ❒ 
+
+*˒ ࣪ ꉂ🧁ᥐʾ ֛ChellstoreᏪ ָ࣪🧋۰*
+┈─  ꕀ  ───    ꕀ    ───  ꕀ   ─┈
+
+*- Harga sewa -*
+ぬ ࣪▸ˑ ִֶָ 🍨 1 Bulan : 7.000
+ぬ ࣪▸ˑ ִֶָ 🍨 2 Bulan : 10.000
+ぬ ࣪▸ˑ ִֶָ 🍨 Permanen : 15.000
+*Keuntungan sewa bot?* bisa masukin bot ke salah satu grup kamu🤤
+──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
+
+*- Kok mahal min ? Baca👇☺️ -*
+ぬ ࣪▸ˑ ִֶָ 🍿 Bot memakai Rdp
+ぬ ࣪▸ˑ ִֶָ 🍿 Bot aktif 24 jam
+ぬ ࣪▸ˑ ִֶָ 🍿 Bot tidak pasaran
+ぬ ࣪▸ˑ ִֶָ 🍿 Bukan bot termux
+ぬ ࣪▸ˑ ִֶָ 🍿 Bukan wibusoft
+
+──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
+
+*- FITUR BOT -*
+ぬ ࣪▸ˑ ִֶָ 🍥 Antilink grup
+ぬ ࣪▸ˑ ִֶָ 🍥 Antidelete
+ぬ ࣪▸ˑ ִֶָ 🍥 Nsfw ( 18+ )
+ぬ ࣪▸ˑ ִֶָ 🍥 Tictactoe
+ぬ ࣪▸ˑ ִֶָ 🍥 Truth or Dare
+ぬ ࣪▸ˑ ִֶָ 🍥 Nulis automatis
+ぬ ࣪▸ˑ ִֶָ 🍥 Audio DJ
+ぬ ࣪▸ˑ ִֶָ 🍥 Kick automatis
+*Dan masih banyak lagi fitur lainnya yang lebih seru🔥🤤*
+
+──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
+
+*- PAYMENT -*
+ぬ ࣪▸ˑ ִֶָ 🥧 Dana
+ぬ ࣪▸ˑ ִֶָ 🥧 Gopay
+
+──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
+
+*- Sistem sewa bot -*
+𝟷. Masukin bot ke grup
+𝟸. Transfer
+𝟹. Done
+
+──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
+
+*👱‍♂️ : Testi ada ?*
+
+*👱‍♀️ : Cek sendiri* https://instagram.com/chelllstore?utm_medium=copy_link
+
+*👱‍♂️ : Bener gak 24 jam ?*
+
+*👱‍♀️ : Bener*
+
+──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
+
+*- Minat? chat -*
+https://wa.me/62822961308923
+
+*- group 1 -*
+chat.whatsapp.com/CUjV5yrqN1qDwI581kUGBe
+
+──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
+│█│▌║│▌║│█║▌│█
+
+     *©chellstore*
+
+
+*#COPYLIST = YATIMM ANJG!!!* 
+Silahkan memilih payment yang tersedia`,
+ sections: [
+                     {
+                      "title": `${jmn} - ${week} ${weton} - ${calender}`,
+ rows: [
+                          {
+                              "title": "1BULAN",
+                              "rowId": "7.000"
+                           },                           
+                           {
+                              "title": "2BULAN",
+                              "rowId": "10.000"
+                            },
+                            {
+                              "title": "PERMANEN",
+                              "rowId": "15.000"
                            }
                         ]
                      }],
@@ -6572,92 +6773,7 @@ Boong auto banned!!`
        sendButLocation(from, `${menu}`, `${uwu}©Chellbot${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}sewabot`,buttonText:{displayText:'YA'},type:1},{buttonId:`${prefix}tidak`,buttonText:{displayText:'TIDAK'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
 break
                                     
-               case 'sewabot':
-               case 'sb':
-        ptod = "62838165647110@s.whatsapp.net"
-        stod = `${sender}`
-        uwu = '```'
-       stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
-				stst = stst.status == 401 ? '' : stst.status
-			
-       menu = `❒ 🇸 🇪 🇼 🇦  🇧 🇴 🇹 ❒ 
-
-*˒ ࣪ ꉂ🧁ᥐʾ ֛ChellstoreᏪ ָ࣪🧋۰*
-┈─  ꕀ  ───    ꕀ    ───  ꕀ   ─┈
-
-*- Harga sewa -*
-ぬ ࣪▸ˑ ִֶָ 🍨 1 Bulan : 7.000
-ぬ ࣪▸ˑ ִֶָ 🍨 2 Bulan : 10.000
-ぬ ࣪▸ˑ ִֶָ 🍨 Permanen : 15.000
-*Keuntungan sewa bot?* bisa masukin bot ke salah satu grup kamu🤤
-──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
-
-*- Kok mahal min ? Baca👇☺️ -*
-ぬ ࣪▸ˑ ִֶָ 🍿 Bot memakai Rdp
-ぬ ࣪▸ˑ ִֶָ 🍿 Bot aktif 24 jam
-ぬ ࣪▸ˑ ִֶָ 🍿 Bot tidak pasaran
-ぬ ࣪▸ˑ ִֶָ 🍿 Bukan bot termux
-ぬ ࣪▸ˑ ִֶָ 🍿 Bukan wibusoft
-
-──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
-
-*- FITUR BOT -*
-ぬ ࣪▸ˑ ִֶָ 🍥 Antilink grup
-ぬ ࣪▸ˑ ִֶָ 🍥 Antidelete
-ぬ ࣪▸ˑ ִֶָ 🍥 Nsfw ( 18+ )
-ぬ ࣪▸ˑ ִֶָ 🍥 Tictactoe
-ぬ ࣪▸ˑ ִֶָ 🍥 Truth or Dare
-ぬ ࣪▸ˑ ִֶָ 🍥 Nulis automatis
-ぬ ࣪▸ˑ ִֶָ 🍥 Audio DJ
-ぬ ࣪▸ˑ ִֶָ 🍥 Kick automatis
-*Dan masih banyak lagi fitur lainnya yang lebih seru🔥🤤*
-
-──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
-
-*- PAYMENT -*
-ぬ ࣪▸ˑ ִֶָ 🥧 Dana
-ぬ ࣪▸ˑ ִֶָ 🥧 Gopay
-
-──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
-
-*- Sistem sewa bot -*
-𝟷. Masukin bot ke grup
-𝟸. Transfer
-𝟹. Done
-
-──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
-
-*👱‍♂️ : Testi ada ?*
-
-*👱‍♀️ : Cek sendiri* https://instagram.com/chelllstore?utm_medium=copy_link
-
-*👱‍♂️ : Bener gak 24 jam ?*
-
-*👱‍♀️ : Bener*
-
-──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
-
-*- Minat? chat -*
-https://wa.me/62822961308923
-
-*- group 1 -*
-chat.whatsapp.com/BkdDOFUCsV3FYnhsxSSN4Z
-
-*- group 2-*
-chat.whatsapp.com/E46XvKzHIVb3TOmteo4roi
-
-*- group 3-*
-chat.whatsapp.com/FXdVGZnjM6UENjlDUGn85F
-──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
-│█│▌║│▌║│█║▌│█
-
-     *©chellstore*
-
-
-*#COPYLIST = YATIMM!!! AAMIIN...*
-`
-sendButLocation(from, `${menu}`, `${uwu}©Chellbot${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}orderan`,buttonText:{displayText:'ORDER BOT'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
-break
+               
 
 //Nomer Dnaa yaa
 case 'dana1':
