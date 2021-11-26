@@ -6651,15 +6651,27 @@ break
    
 case 'dana': 				
                     wew = fs.readFileSync(`./media/dana.jpg`)
-                      lzain = `*SILAHKAN DI SCAN QR CODE NYA*
-Jangan lupa kirim bukti transfer via Dana`
+                      lzain = `*Caranya :*
+1. Buka Aplikasi DANA di HP-mu.
+2. Pilih Pay / Bayar
+3. Scan Barcode diatas *GOPAY*
+4. Masukkan Nominal Pembayaran
+5. Selesai 
+
+*Wajib Kirim bukti pembayaran*`
 pemuda.sendMessage(from, wew, image, { quoted: mek, caption: lzain })
 break
 
 case 'gopay': 				
                     wew = fs.readFileSync(`./media/qrcode.jpg`)
-                      lzain = `*SILAHKAN DI SCAN QR CODE NYA*
-Jangan lupa kirim bukti transfer via Gopay`
+                      lzain = `*Caranya :*
+1. Buka Aplikasi GOPAY di HP-mu.
+2. Pilih Pay / Bayar
+3. Scan Barcode diatas *GOPAY*
+4. Masukkan Nominal Pembayaran
+5. Selesai 
+
+*Wajib Kirim bukti pembayaran*`
 pemuda.sendMessage(from, wew, image, { quoted: mek, caption: lzain })
 break
 
