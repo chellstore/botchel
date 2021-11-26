@@ -5454,7 +5454,7 @@ if (!isGroup) return reply(mess.only.group)
        stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
 			
-       menu = `Untuk membuat sticker silahkan chat ke @${otod.split('@')[0]}`
+       menu = `Untuk membuat sticker silahkan chat ke wa.me/62856568844163`
        sendButLocation(from, `${menu}`, `${uwu}© Chellbot${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}sb`,buttonText:{displayText:'MAU ORDER BOT'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
 break
 						
