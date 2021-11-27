@@ -110,7 +110,6 @@ const bad = JSON.parse(fs.readFileSync('./database/bad.json'))
 const commandsDB = JSON.parse(fs.readFileSync('./database/commands.json'))
 const tictactoe = JSON.parse(fs.readFileSync("./database/tictactoe.json"))
 const antilink = JSON.parse(fs.readFileSync('./database/antilink.json'))
-const antitoxic = JSON.parse(fs.readFileSync('./database/antitoxic.json'))
 const nsfww = JSON.parse(fs.readFileSync('./database/nsfww.json'))
 const _registered = JSON.parse(fs.readFileSync('./database/user.json'))
 const welkom = JSON.parse(fs.readFileSync('./database/welkom.json'))
@@ -346,7 +345,6 @@ try {
 		const isGroupAdmins = groupAdmins.includes(sender) || false
 		const isKickArea = isGroup ? kickarea.includes(from) : false
 		const isAntiLink = isGroup ? antilink.includes(from) : false
-		const isAntiToxic = isGroup ? antitoxic.includes(from) : false
 const AntiVirtex = isGroup ? antivirtex.includes(from) : false
 const isAntihidetag = isGroup ? antihidetg.includes(from) : false 
 		const isWelkom = isGroup ? welkom.includes(from) : false
@@ -932,138 +930,6 @@ reply(String(e))
 			    pemuda.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
 			}
 }
-if (budy.includes("anjing")) {
-        	if (!mek.key.fromMe){
-				if (!isGroup) return
-				if (!isAntiToxic) return
-				if (isGroupAdmins) return reply('Atasan grup mah bebas yakan :v')
-				pemuda.updatePresence(from, Presence.composing)
-				var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-				reply('*TOXIC TERDETEKSI*')
-			    pemuda.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
-			}			
-			}			
-			if (budy.includes("memek")) {
-        	if (!mek.key.fromMe){
-				if (!isGroup) return
-				if (!isAntiToxic) return
-				if (isGroupAdmins) return reply('Atasan grup mah bebas yakan :v')
-				pemuda.updatePresence(from, Presence.composing)
-				var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-				reply('*TOXIC TERDETEKSI*')
-			    pemuda.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
-			}			
-			}			
-			if (budy.includes("ontol")) {
-        	if (!mek.key.fromMe){
-				if (!isGroup) return
-				if (!isAntiToxic) return
-				if (isGroupAdmins) return reply('Atasan grup mah bebas yakan :v')
-				pemuda.updatePresence(from, Presence.composing)
-				var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-				reply('*TOXIC TERDETEKSI*')
-			    pemuda.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
-			}			
-			}			
-			if (budy.includes("bangsat")) {
-        	if (!mek.key.fromMe){
-				if (!isGroup) return
-				if (!isAntiToxic) return
-				if (isGroupAdmins) return reply('Atasan grup mah bebas yakan :v')
-				pemuda.updatePresence(from, Presence.composing)
-				var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-				reply('*TOXIC TERDETEKSI*')
-			    pemuda.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
-			}			
-			}			
-			if (budy.includes("goblok")) {
-        	if (!mek.key.fromMe){
-				if (!isGroup) return
-				if (!isAntiToxic) return
-				if (isGroupAdmins) return reply('Atasan grup mah bebas yakan :v')
-				pemuda.updatePresence(from, Presence.composing)
-				var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-				reply('*TOXIC TERDETEKSI*')
-			    pemuda.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
-			}			
-			}			
-			if (budy.includes("tolol")) {
-        	if (!mek.key.fromMe){
-				if (!isGroup) return
-				if (!isAntiToxic) return
-				if (isGroupAdmins) return reply('Atasan grup mah bebas yakan :v')
-				pemuda.updatePresence(from, Presence.composing)
-				var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-				reply('*TOXIC TERDETEKSI*')
-			    pemuda.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
-			}			
-			}			
-			if (budy.includes("peler")) {
-        	if (!mek.key.fromMe){
-				if (!isGroup) return
-				if (!isAntiToxic) return
-				if (isGroupAdmins) return reply('Atasan grup mah bebas yakan :v')
-				pemuda.updatePresence(from, Presence.composing)
-				var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-				reply('*TOXIC TERDETEKSI*')
-			    pemuda.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
-			}			
-			}			
-			if (budy.includes("ajg")) {
-        	if (!mek.key.fromMe){
-				if (!isGroup) return
-				if (!isAntiToxic) return
-				if (isGroupAdmins) return reply('Atasan grup mah bebas yakan :v')
-				pemuda.updatePresence(from, Presence.composing)
-				var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-				reply('*TOXIC TERDETEKSI*')
-			    pemuda.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
-			}			
-			}			
-			if (budy.includes("asu")) {
-        	if (!mek.key.fromMe){
-				if (!isGroup) return
-				if (!isAntiToxic) return
-				if (isGroupAdmins) return reply('Atasan grup mah bebas yakan :v')
-				pemuda.updatePresence(from, Presence.composing)
-				var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-				reply('*TOXIC TERDETEKSI*')
-			    pemuda.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
-			}			
-			}			
-			if (budy.includes("asw")) {
-        	if (!mek.key.fromMe){
-				if (!isGroup) return
-				if (!isAntiToxic) return
-				if (isGroupAdmins) return reply('Atasan grup mah bebas yakan :v')
-				pemuda.updatePresence(from, Presence.composing)
-				var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-				reply('*TOXIC TERDETEKSI*')
-			    pemuda.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
-			}			
-			}			
-			if (budy.includes("gblk")) {
-        	if (!mek.key.fromMe){
-				if (!isGroup) return
-				if (!isAntiToxic) return
-				if (isGroupAdmins) return reply('Atasan grup mah bebas yakan :v')
-				pemuda.updatePresence(from, Presence.composing)
-				var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-				reply('*TOXIC TERDETEKSI*')
-			    pemuda.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
-			}			
-			}			
-			if (budy.includes("kntl")) {
-        	if (!mek.key.fromMe){
-				if (!isGroup) return
-				if (!isAntiToxic) return
-				if (isGroupAdmins) return reply('Atasan grup mah bebas yakan :v')
-				pemuda.updatePresence(from, Presence.composing)
-				var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-				reply('*TOXIC TERDETEKSI*')
-			    pemuda.groupRemove(from, [kic]).catch((e) => { reply(mess.only.Badmin) })
-			}			
-			}						
 if (budy.includes(`ssalamualaikum`)) {
                   lima = fs.readFileSync('./30detik/salam.mp3');
 pemuda.sendMessage(from, lima, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
@@ -3667,27 +3533,7 @@ case 'antibug':
 					}
 					break
 					
-					case 'toxic':
-			if (!isOwner && !mek.key.fromMe) return reply(mess.only.ownerB)		
-	        if (!isGroup) return reply(mess.only.group)
-			if (!isBotGroupAdmins) return reply(mess.only.Badmin)
-					if (args.length < 1) return reply(`untuk mengaktifkan ketik : ${prefix}toxic 1`)
-					if (Number(args[0]) === 1) {
-						if (isAntiToxic) return reply('Sudah Aktif Kak')
-						antitoxic.push(from)
-						fs.writeFileSync('./database/toxic.json', JSON.stringify(antitoxic))
-						reply('Sukses mengaktifkan')
-						pemuda.sendMessage(from, `ALLERT!!! Toxic = kick`, text)
-					} else if (Number(args[0]) === 0) {
-						if (!isAntiToxic) return reply('Sudah Mati Kak')
-						var ini = antitoxic.indexOf(from)
-						antitoxic.splice(ini, 1)
-						fs.writeFileSync('./database/antitoxic.json', JSON.stringify(antitoxic))
-						reply('Sukses menonaktifkan')
-					} else {
-						reply('1 untuk mengaktifkan, 0 untuk mematikan')
-					}
-					break
+					
 					
 				 case 'nsfw':
 	        if (!isGroup) return reply(mess.only.group)
@@ -5671,6 +5517,9 @@ case 'ppcouple':
 					sendMediaURL(from, `https://bx-hunter.herokuapp.com/api/ssweb?url=${args[0]}&apikey=${HunterApi}`)
 					break
 				break
+				
+				
+
 				case 'addsticker':
 				if (!isOwner && !mek.key.fromMe) return reply(mess.only.ownerB)
 					if (!isQuotedSticker) return reply('Reply stiker')
