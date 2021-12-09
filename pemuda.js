@@ -1620,21 +1620,21 @@ stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
 ┈─  ꕀ  ───    ꕀ    ───  ꕀ   ─┈
 
 *- 🌸 HARGA BOT*
-ꉂ🍨1 Minggu = 10.000/grup
-ꉂ🍨1 Bulan = 15.000/grup
-ꉂ🍨Permanen = 25.000/grup
+ꉂ🍨1 mіᥒggᥙ = 10.000/grᥙ⍴
+ꉂ🍨1 ᑲᥙᥣᥲᥒ = 15.000/grᥙ⍴
+ꉂ🍨⍴ᥱrmᥲᥒᥱᥒ = 25.000/grᥙ⍴
 
 *- 🌸 FITUR BOT*
-ꉂ🍨welcome & left
-ꉂ🍨antilink group
-ꉂ🍨nsfw
-ꉂ🍨tictactoe
-ꉂ🍨antilink group
-ꉂ🍨kick automatis
-ꉂ🍨vn music dj
-ꉂ🍨antidelete
-ꉂ🍨sticker
-Dan masih banyak lagi fitur lainnya...
+ꉂ🍨ᥕᥱᥣᥴ᥆mᥱ & ᥣᥱ𝖿𝗍
+ꉂ🍨ᥲᥒ𝗍іᥣіᥒk gr᥆ᥙ⍴
+ꉂ🍨ᥒs𝖿ᥕ
+ꉂ🍨𝗍іᥴ𝗍ᥲᥴ𝗍᥆ᥱ
+ꉂ🍨ᥲᥒ𝗍іᥣіᥒk gr᥆ᥙ⍴
+ꉂ🍨kіᥴk ᥲᥙ𝗍᥆mᥲ𝗍іs
+ꉂ🍨᥎ᥒ mᥙsіᥴ ძȷ
+ꉂ🍨ᥲᥒ𝗍іძᥱᥣᥱ𝗍ᥱ
+ꉂ🍨s𝗍іᥴkᥱr
+ძᥲᥒ mᥲsіһ ᑲᥲᥒᥡᥲk ᥣᥲgі 𝖿і𝗍ᥙr ᥣᥲіᥒᥒᥡᥲ...
 
 *- 🌸 PAYMENT*
 ꉂ🍨g᥆⍴ᥲᥡ
@@ -1650,7 +1650,7 @@ https://instagram.com/chelllstore?utm_medium=copy_link
 *- 👥 GROUP*
 https://chat.whatsapp.com/BlVcfdhCyzz8iWaDvSDKd1
 
-(ᥒ) jika bot di keluarkan dari group maka masa aktif bot di group kamu akan habis, dan jika ingin pindahin bot ke grup lain harus bayar 2.000
+(ᥒ) ȷіkᥲ ᑲ᥆𝗍 ძі kᥱᥣᥙᥲrkᥲᥒ ძᥲrі gr᥆ᥙ⍴ mᥲkᥲ mᥲsᥲ ᥲk𝗍і𝖿 ᑲ᥆𝗍 ძі gr᥆ᥙ⍴ kᥲmᥙ ᥲkᥲᥒ һᥲᑲіs, ძᥲᥒ ȷіkᥲ іᥒgіᥒ ⍴іᥒძᥲһіᥒ ᑲ᥆𝗍 kᥱ grᥙ⍴ ᥣᥲіᥒ һᥲrᥙs ᑲᥲᥡᥲr 2.000
 
 ──────────── ·﻿ ﻿ ﻿· ﻿ ·﻿ ﻿ ﻿· ﻿
 
