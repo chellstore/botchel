@@ -5200,7 +5200,9 @@ break
 						break
 
 	case 'play':
-if (!isGroupAdmins) return reply(mess.only.admin)	
+	case 'music':
+	case 'musik':
+	case 'ytmp3':	
 if (!isGroup) return reply(mess.only.group)
 			if (args.length === 0) return reply(`Kirim perintah *${prefix}play* _Judul lagu yang akan dicari_`)
 
@@ -7422,7 +7424,8 @@ ${uwu}1× Share = 2.000
        sendButLocation(from, `${menu}`, `${uwu}©Chellbot${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}payment`,buttonText:{displayText:'MAU ORDER KAK'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
 break
 
-case 'owner':
+case 'owner':	
+if (!isGroup) return reply(mess.only.group)
         ptod = "62896465831949@s.whatsapp.net"
         stod = `${sender}`
         uwu = '```'
