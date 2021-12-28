@@ -21,7 +21,7 @@ nocache('./pemuda.js', module => console.log(color('|TRM|'), color(`${module} Up
 
 async function starts() {
 pemuda.autoReconnect = ReconnectMode.onConnectionLost
-    pemuda.version = [2, 2143, 3]
+    pemuda.version = [2, 2147, 16]
     pemuda.logger.level = 'warn'
     pemuda.browserDescription = ['Chells','Desktop','3.0']
     await sleep(10000)
