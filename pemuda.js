@@ -148,9 +148,10 @@ let bugc = true
 // APIKEY
 limitawal = 9999 //terserah mau ganti apa gak 
 memberlimit = 1 //terserah mau ganti apa gak 
+lolkey = settings.lolkey
 HunterApi = settings.HunterApi
 ZeksApi = settings.ZeksApi
-xchillds = 'XChillDs'
+xchillds = settings.xchillds
 
 const time = moment().tz('Asia/Jakarta').format("HH:mm:ss")
 
