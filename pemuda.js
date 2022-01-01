@@ -1605,18 +1605,18 @@ stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
 pemuda.sendMessage(from, listMsg, MessageType.listMessage, {contextInfo: { mentionedJid: [sender]},quoted:ftrol})
 break
 
-case 'sewabot':
 case 'sb':
-stod = `${sender}`
-stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
-
- listMsg = {
- buttonText: 'CLICK HERE',
- footerText: '*_©Chellbot_*',
- description: `*LIST JASA SEWA BOT*
+case 'sewabot':
+        ptod = "62896465831949@s.whatsapp.net"
+        stod = `${sender}`
+        uwu = '```'
+       stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
+				stst = stst.status == 401 ? '' : stst.status
+			
+       menu = `🇯‌🇦‌🇸‌🇦‌ 🇸‌🇪‌🇼‌🇦‌ 🇧‌🇴‌🇹‌
        
-*˒ ࣪ ꉂ🍭ᥐʾ ֛ᥴһᥱᥣs𝗍᥆rᥱᏪ ָ࣪🍩۰*
-┈─  ꕀ  ───    ꕀ    ───  ꕀ   ─┈
+*☁️ ֙ 𖥻 Chellstore*
+▔ٰ‌ּ‌￣ּ֪▔ٰ‌ּ‌￣ּ֪▔ٰ‌ּ‌￣ּ֪▔ٰ‌ּ‌￣ּ֪▔ٰ‌ּ‌￣ּ֪▔ٰ‌ּ‌▔ٰ‌ּ‌￣ּ֪▔ٰ‌ּ‌
 
 *- 🌸 HARGA BOT*
 ꉂ🍨1 ᑲᥙᥣᥲᥒ = 10.000/grᥙ⍴
@@ -1632,44 +1632,30 @@ stst = await pemuda.getStatus(`${sender.split('@')[0]}@c.us`)
 ꉂ🍨᥎ᥒ mᥙsіᥴ ძȷ
 ꉂ🍨ᥲᥒ𝗍іძᥱᥣᥱ𝗍ᥱ
 ꉂ🍨s𝗍іᥴkᥱr
-ძᥲᥒ mᥲsіһ ᑲᥲᥒᥡᥲk ᥣᥲgі 𝖿і𝗍ᥙr ᥣᥲіᥒᥒᥡᥲ...
+ძᥲᥒ mᥲsіһ ᑲᥲᥒᥡᥲk ᥣᥲgі 𝖿і𝗍ᥙr ᥣᥲіᥒᥒᥡᥲ.
 
-*- 🌸 PAYMENT*
+*- 🌸 ⍴ᥲᥡmᥱᥒ𝗍*
 ꉂ🍨g᥆⍴ᥲᥡ
 ꉂ🍨ძᥲᥒᥲ
 ꉂ🍨𝗊rіs ᥲᥣᥣ ⍴ᥲᥡmᥱᥒ𝗍
 
-*- 📞 CONTACT*
-https://wa.me/62896465831949
-
-*- 🛡️ TESTIMONI*
-https://instagram.com/chelllstore?utm_medium=copy_link
-
-*- 👥 GROUP*
+*- 👥 gr᥆ᥙ⍴*
 https://chat.whatsapp.com/BlVcfdhCyzz8iWaDvSDKd1
 
-(ᥒ) ȷіkᥲ ᑲ᥆𝗍 ძі kᥱᥣᥙᥲrkᥲᥒ ძᥲrі gr᥆ᥙ⍴ mᥲkᥲ mᥲsᥲ ᥲk𝗍і𝖿 ᑲ᥆𝗍 ძі gr᥆ᥙ⍴ kᥲmᥙ ᥲkᥲᥒ һᥲᑲіs, ძᥲᥒ ȷіkᥲ іᥒgіᥒ ⍴іᥒძᥲһіᥒ ᑲ᥆𝗍 kᥱ grᥙ⍴ ᥣᥲіᥒ һᥲrᥙs ᑲᥲᥡᥲr 2.000
+*- 📞 ᥴ᥆ᥒ𝗍ᥲᥴ𝗍*
+https://wa.me/62896465831949
 
+*- 🛡️ 𝗍ᥱs𝗍іm᥆ᥒі*
+https://instagram.com/chelllstore?utm_medium=copy_link
+
+(ᥒ) ȷіkᥲ ᑲ᥆𝗍 ძі kᥱᥣᥙᥲrkᥲᥒ ძᥲrі gr᥆ᥙ⍴ mᥲkᥲ mᥲsᥲ ᥲk𝗍і𝖿 ᑲ᥆𝗍 ძі gr᥆ᥙ⍴ kᥲmᥙ ᥲkᥲᥒ һᥲᑲіs, ძᥲᥒ ȷіkᥲ іᥒgіᥒ ⍴іᥒძᥲһіᥒ ᑲ᥆𝗍 kᥱ grᥙ⍴ ᥣᥲіᥒ һᥲrᥙs ᑲᥲᥡᥲr 2.000.
 
-│█│▌║│▌║│█║▌│█`,
- sections: [
-                     {
-                      "title": `${jmn} - ${week} ${weton} - ${calender}`,
- rows: [                          
-                           {
-                              "title": "1BULAN",
-                              "rowId": "10.000"
-                            },
-                            {
-                              "title": "PERMANEN",
-                              "rowId": "20.000"
-                           }
-                        ]
-                     }],
- listType: 1
-}
-pemuda.sendMessage(from, listMsg, MessageType.listMessage, {contextInfo: { mentionedJid: [sender]},quoted:ftrol})
+*║▌│█║▌│ █║▌│█│║▌*
+*www.cɦɛʟʟsȶօʀɛ.com*`
+       sendButLocation(from, `${menu}`, `${uwu}NoCopas${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}payment`,buttonText:{displayText:'MAU ORDER KAK'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
 break
+
+
 case 'shop':
 case 'store':
 stod = `${sender}`
