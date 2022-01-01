@@ -5638,6 +5638,17 @@ case 'antibule':
 		    pemuda.groupRemove(from, [kick])
 						reply('Sukses mengeluarkan peserta')
                     break
+                    
+                    case 'add':
+			if (!isGroup) return reply(mess.only.group)
+			if (!isGroupAdmins) return reply(mess.only.admin)
+			if (!isBotGroupAdmins) return reply(mess.only.Badmin)
+			if (mek.message.extendedTextMessage === undefined || mek.message.extendedTextMessage === null) return reply('Reply Pesan Targetnya!')
+			add = mek.message.extendedTextMessage.contextInfo.participant
+		    pemuda.groupAdd(from, [add])
+				reply('Sukses menambahkan peserta')
+				break
+				
                     case 'banned':
              if (!isOwner && !mek.key.fromMe) return reply(mess.only.ownerB)       
 			if (!isGroup) return reply(mess.only.group)
@@ -5666,6 +5677,9 @@ case 'antibule':
 					reply(`Sukses membuat grup ${argz[0]}`)
                 }
 				break
+				
+				
+				
 			case 'addrespon':
 			if (!isOwner && !mek.key.fromMe) return reply(mess.only.ownerB)
 				if (args.length < 1) return reply(`Penggunaan ${prefix}addrespon hai|hai juga`)
