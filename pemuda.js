@@ -1652,7 +1652,7 @@ https://instagram.com/chelllstore?utm_medium=copy_link
 
 *║▌│█║▌│ █║▌│█│║▌*
 *www.cɦɛʟʟsȶօʀɛ.com*`
-       sendButLocation(from, `${menu}`, `${uwu}NoCopas${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}payment`,buttonText:{displayText:'MAU ORDER KAK'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
+       sendButLocation(from, `${menu}`, `${uwu}NoCopas${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}payment`,buttonText:{displayText:'PAYMENT'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
 break
 
 
@@ -7363,7 +7363,7 @@ https://instagram.com/chelllstore?utm_medium=copy_link
 
 *║▌│█║▌│ █║▌│█│║▌*
 *www.cɦɛʟʟsȶօʀɛ.com*`
-       sendButLocation(from, `${menu}`, `${uwu}NoCopas${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}payment`,buttonText:{displayText:'MAU ORDER KAK'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
+       sendButLocation(from, `${menu}`, `${uwu}NoCopas${uwu}`, {jpegThumbnail:ofrply}, [{buttonId:`${prefix}payment`,buttonText:{displayText:'PAYMENT'},type:1}], {contextInfo: { mentionedJid: [ptod,dtod,otod,stod]}})
 break
 case '50group':
         ptod = "62896465831949@s.whatsapp.net"
