@@ -1300,44 +1300,103 @@ _*↳˳⸙;; ❝ Download Menu ᵕ̈ ೫˚∗:*_
 
 _*↳˳⸙;; ❝ Maker Menu ᵕ̈ ೫˚∗:*_
 
-• _${prefix}sticker 「 Kirim/reply Media 」_
-• _${prefix}smeme 「 Kirim/Reply Media 」_
-• _${prefix}smeme2 「 Teks1|teks2 」_
-• _${prefix}foliokiri 「 text 」_
-• _${prefix}foliokanan 「 text 」_
-• _${prefix}nuliskanan 「 text 」_
-• _${prefix}nuliskiri 「 text 」_
-• _${prefix}matrix [ teks ]_
-• _${prefix}googletxt [ teks ]_
-• _${prefix}spiderman [ teks ]_
-• _${prefix}express [ teks ]_
-• _${prefix}dance [ teks ]_
-• _${prefix}blackbird [ teks ]_
-• _${prefix}halloween [ teks ]_
-• _${prefix}vampire [ teks ]_
-• _${prefix}codetxt [ teks ]_
-• _${prefix}text3d [ teks ]_
-• _${prefix}warrior [ teks ]_
-• _${prefix}maker2d2 「 text 」_
-• _${prefix}maker2d3 「 text 」_
-• _${prefix}maker2d4 「 text 」_
-• _${prefix}maker3d 「 text 」_
-• _${prefix}maker3d2 「 text 」_
-• _${prefix}maker3d3 「 text 」_
-• _${prefix}maker3d4 「 text 」_
-• _${prefix}transformer 「 text 」_
-• _${prefix}googletxt 「 text 」_
-• _${prefix}battlefield 「 text 」_
-• _${prefix}coffeecup 「 text 」_
-• _${prefix}coffeecup2 「 text 」_
-• _${prefix}neon 「 text 」_
-• _${prefix}glow 「 text 」_
-• _${prefix}summer 「 text 」_
-• _${prefix}flower 「 text 」_
-• _${prefix}burn 「 text 」_
-• _${prefix}quote 「 text 」_
-• _${prefix}wooden 「 text 」_
-• _${prefix}golden 「 text 」_
+• _${prefix}wetglass teks_
+• _${prefix}multicolor3d teks_
+• _${prefix}watercolor teks_
+• _${prefix}luxurygold teks_
+• _${prefix}galaxywallpaper teks_
+• _${prefix}lighttext teks_
+• _${prefix}beautifulflower teks_
+• _${prefix}puppycute teks_
+• _${prefix}royaltext teks_
+• _${prefix}heartshaped teks_
+• _${prefix}birthdaycake teks_
+• _${prefix}galaxystyle teks_
+• _${prefix}hologram3d teks_
+• _${prefix}greenneon teks_
+• _${prefix}glossychrome teks_
+• _${prefix}greenbush teks_
+• _${prefix}metallogo teks_
+• _${prefix}noeltext teks_
+• _${prefix}glittergold teks_
+• _${prefix}textcake teks_
+• _${prefix}starsnight teks_
+• _${prefix}wooden3d teks_
+• _${prefix}textbyname teks_
+• _${prefix}writegalacy teks_
+• _${prefix}galaxybat teks_
+• _${prefix}snow3d teks_
+• _${prefix}birthdayday teks_
+• _${prefix}goldplaybutton teks_
+• _${prefix}silverplaybutton teks_
+• _${prefix}shadow teks_
+• _${prefix}cup teks_
+• _${prefix}cup1 teks_
+• _${prefix}romance teks_
+• _${prefix}smoke teks_
+• _${prefix}burnpaper teks_
+• _${prefix}lovemessage teks_
+• _${prefix}undergrass teks_
+• _${prefix}love teks_
+• _${prefix}coffe teks_
+• _${prefix}woodheart teks_
+• _${prefix}woodenboard teks_
+• _${prefix}summer3d teks_
+• _${prefix}wolfmetal teks_
+• _${prefix}nature3d teks_
+• _${prefix}underwater teks_
+• _${prefix}golderrose teks_
+• _${prefix}summernature teks_
+• _${prefix}letterleaves teks_
+• _${prefix}glowingneon teks_
+• _${prefix}fallleaves teks_
+• _${prefix}flamming teks_
+• _${prefix}harrypotter teks_
+• _${prefix}carvedwood teks_
+• _${prefix}arcade8bit text1 text2_
+• _${prefix}battlefield4 text1 text2_
+• _${prefix}blackpink teks_
+• _${prefix}neon teks_
+• _${prefix}greenneon teks_
+• _${prefix}advanceglow teks_
+• _${prefix}futureneon teks_
+• _${prefix}sandwriting teks_
+• _${prefix}sandsummer teks_
+• _${prefix}sandengraved teks_
+• _${prefix}metaldark teks_
+• _${prefix}neonlight teks_
+• _${prefix}text1917 teks_
+• _${prefix}minion teks_
+• _${prefix}deluxesilver teks_
+• _${prefix}newyearcard teks_
+• _${prefix}bloodfrosted teks_
+• _${prefix}halloween teks_
+• _${prefix}jokerlogo teks_
+• _${prefix}fireworksparkle teks_
+• _${prefix}natureleaves teks_
+• _${prefix}bokeh teks_
+• _${prefix}strawberry teks_
+• _${prefix}box3d teks_
+• _${prefix}roadwarning teks_
+• _${prefix}breakwall teks_
+• _${prefix}icecold teks_
+• _${prefix}luxury teks_
+• _${prefix}cloud teks_
+• _${prefix}summersand teks_
+• _${prefix}horrorblood teks_
+
+_*↳˳⸙;; ❝ Anime Menu ᵕ̈ ೫˚∗:*_
+• _${prefix}manga search_
+• _${prefix}anime search_
+• _${prefix}character search_
+• _${prefix}kusonime link_
+• _${prefix}kusonimesearch search_
+• _${prefix}otakudesu link_
+• _${prefix}otakudesusearch search_
+• _${prefix}nhentaipdf kode_
+• _${prefix}nhentaisearch search_
+• _${prefix}nekopoi link_
+• _${prefix}nekopoisearch search_
 
 
 
@@ -1647,7 +1706,8 @@ https://wa.me/62896465831949
 
 *- 🛡️ 𝗍ᥱs𝗍іm᥆ᥒі*
 https://instagram.com/chelllstore?utm_medium=copy_link
-
+
+
 (ᥒ) ȷіkᥲ ᑲ᥆𝗍 ძі kᥱᥣᥙᥲrkᥲᥒ ძᥲrі gr᥆ᥙ⍴ mᥲkᥲ mᥲsᥲ ᥲk𝗍і𝖿 ᑲ᥆𝗍 ძі gr᥆ᥙ⍴ kᥲmᥙ ᥲkᥲᥒ һᥲᑲіs, ძᥲᥒ ȷіkᥲ іᥒgіᥒ ⍴іᥒძᥲһіᥒ ᑲ᥆𝗍 kᥱ grᥙ⍴ ᥣᥲіᥒ һᥲrᥙs ᑲᥲᥡᥲr 2.000.
 
 *║▌│█║▌│ █║▌│█│║▌*
@@ -1975,166 +2035,93 @@ menu = `⬣ 「 \`\`\`MENU OTHER\`\`\` 」
 └${prefix}dadu`
 katalog(menu)
 break
-//Hardianto nsfw
-case 'yuri':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-kon = (`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=yuri&apikey=hardianto`)
-anu = await getBuffer(kon)
-pemuda.sendMessage(from, anu, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case 'anal':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-aku = (`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=anal&apikey=hardianto`)
-kon = await getBuffer(aku)
-pemuda.sendMessage(from, kon, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case 'lesbian':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-kau = (`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=lesbian&apikey=hardianto`)
-kon = await getBuffer(kau)
-pemuda.sendMessage(from, kon, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case 'eroneko':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-hai = (`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=eroNeko&apikey=hardianto`)
-kon = await getBuffer(hai)
-pemuda.sendMessage(from, kon, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case 'bj':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-hai = (`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=bJ&apikey=hardianto`)
-kon = await getBuffer(hai)
-pemuda.sendMessage(from, kon, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case 'kitsune':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-hai = (`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=kitsune&apikey=hardianto`)
-kon = await getBuffer(hai)
-pemuda.sendMessage(from, kon, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case 'pussy':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-hai = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=pussy&apikey=hardianto`)
-pemuda.sendMessage(from, hai, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case 'wallpaper':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-hai = (`https://hardianto-chan.herokuapp.com/api/anime/random?sfw=wallpaper&apikey=hardianto`)
-kon = await getBuffer(hai)
-pemuda.sendMessage(from, kon, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case 'neko2':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-hai = (`https://hardianto-chan.herokuapp.com/api/anime/random?sfw=neko&apikey=hardianto`)
-kon = await getBuffer(hai)
-pemuda.sendMessage(from, kon, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case 'baka':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-hai = (`https://hardianto-chan.herokuapp.com/api/anime/random?sfw=baka&apikey=hardianto`)
-kon = await getBuffer(hai)
-pemuda.sendMessage(from, kon, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case 'slap':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-hai = (`https://hardianto-chan.herokuapp.com/api/anime/random?sfw=slap&apikey=hardianto`)
-kon = await getBuffer(hai)
-pemuda.sendMessage(from, kon, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case 'poke':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-hai = (`https://hardianto-chan.herokuapp.com/api/anime/random?sfw=poke&apikey=hardianto`)
-kon = await getBuffer(hai)
-pemuda.sendMessage(from, kon, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case 'neko2':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-hai = (`https://hardianto-chan.herokuapp.com/api/anime/random?sfw=neko&apikey=hardianto`)
-kon = await getBuffer(hai)
-pemuda.sendMessage(from, kon, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case 'keta':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-hai = (`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=keta&apikey=hardianto`)
-kon = await getBuffer(hai)
-pemuda.sendMessage(from, kon, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case  'awoo':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-anu = await fetchJson(`https://waifu.pics/api/sfw/awoo`)
-buffer = await getBuffer(anu.url)
-pemuda.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case  'blowjob':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-anu = await fetchJson(`https://nekos.life/api/v2/img/blowjob`)
-buffer = await getBuffer(anu.url)
-pemuda.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case  'hentai': 
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-anu = await fetchJson(`https://waifu.pics/api/nsfw/neko`)
-buffer = await getBuffer(anu.url)
-pemuda.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case  'megumin':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-anu = await fetchJson(`https://waifu.pics/api/sfw/megumin`)
-buffer = await getBuffer(anu.url)
-pemuda.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case  'neko':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-anu = await fetchJson(`https://waifu.pics/api/nsfw/neko`)
-buffer = await getBuffer(anu.url)
-pemuda.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
-case  'trapnime':
-if (!isGroup) return reply(mess.only.group)
-if (!isNsfw) return reply(`Fitur Nsfw Belum Aktif Di Grup Ini\nKetik: ${prefix}nsfw 1 \nUntuk Mengaktifkan`)
-reply(mess.wait)
-anu = await fetchJson(`https://waifu.pics/api/nsfw/trap`)
-buffer = await getBuffer(anu.url)
-pemuda.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-break
+// Random Image //
+                case 'art':
+                case 'bts':
+                case 'exo':
+                case 'elf':
+                case 'loli':
+                case 'neko':
+                case 'waifu':
+                case 'shota':
+                case 'husbu':
+                case 'sagiri':
+                case 'shinobu':
+                case 'megumin':
+                case 'wallnime':
+                    getBuffer(`https://api.lolhuman.xyz/api/random/${command}?apikey=${lolkey}`).then((gambar) => {
+                        pemuda.sendMessage(from, gambar, image, { quoted: mek })
+                    })
+                    break
+                case 'chiisaihentai':
+                case 'trap':
+                case 'blowjob':
+                case 'yaoi':
+                case 'ecchi':
+                case 'hentai':
+                case 'ahegao':
+                case 'hololewd':
+                case 'sideoppai':
+                case 'animefeets':
+                case 'animebooty':
+                case 'animethighss':
+                case 'hentaiparadise':
+                case 'animearmpits':
+                case 'hentaifemdom':
+                case 'lewdanimegirls':
+                case 'biganimetiddies':
+                case 'animebellybutton':
+                case 'hentai4everyone':
+                    await getBuffer(`https://api.lolhuman.xyz/api/random/nsfw/${command}?apikey=${lolkey}`).then((gambar) => {
+                        pemuda.sendMessage(from, gambar, image, { quoted: mek })
+                    })
+                    break
+                case 'bj':
+                case 'ero':
+                case 'cum':
+                case 'feet':
+                case 'yuri':
+                case 'trap':
+                case 'lewd':
+                case 'feed':
+                case 'eron':
+                case 'solo':
+                case 'gasm':
+                case 'poke':
+                case 'anal':
+                case 'holo':
+                case 'tits':
+                case 'kuni':
+                case 'kiss':
+                case 'erok':
+                case 'smug':
+                case 'baka':
+                case 'solog':
+                case 'feetg':
+                case 'lewdk':
+                case 'waifu':
+                case 'pussy':
+                case 'femdom':
+                case 'cuddle':
+                case 'hentai':
+                case 'eroyuri':
+                case 'cum_jpg':
+                case 'blowjob':
+                case 'erofeet':
+                case 'holoero':
+                case 'classic':
+                case 'erokemo':
+                case 'fox_girl':
+                case 'futanari':
+                case 'lewdkemo':
+                case 'wallpaper':
+                case 'pussy_jpg':
+                case 'kemonomimi':
+                case 'nsfw_avatar':
+                    getBuffer(`https://api.lolhuman.xyz/api/random2/${command}?apikey=${lolkey}`).then((gambar) => {
+                        pemuda.sendMessage(from, gambar, image, { quoted: mek })
+                    })
+                    break
 //Done
 case 'nuliskiri':
 if (!isGroup) return reply(mess.only.group)
@@ -2269,174 +2256,109 @@ break
               pemuda.relayWAMessage(prep)
         
                     break
-//Xchillds
-case 'maker2d2': 
-if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pemuda Kamiyaka`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker2?text=${makell}&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.results)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-		case 'maker2d3': 
-		if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker3?text=${makell}&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.results)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-		case 'maker2d4': 
-		if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker4?text=${makell}&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.results)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-			case 'maker3d':			
-			if (!isGroup) return reply(mess.only.group) 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = body.slice(8)
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker3d?text=${makell}&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.results)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-			case 'maker3d2': 
-			if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker3d/no2?text=${makell}&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.results)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-			case 'maker3d3': 
-			if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker3d/no3?text=${makell}&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.results)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-			case 'maker3d4': 
-			if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker3d/no4?text=${makell}&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.results)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-			case 'transformer': 
-			if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/maker/special/transformer?text=${makell}&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.results)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-			case 'googletxt':
-			if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} pemuda|chan|kawai`)
-					makell = args.join(" ")
-					ll1 = makell.split("|")[0];
-					ll2 = makell.split("|")[1];
-					ll3 = makell.split("|")[0];
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker?text=${ll1}&text2=${ll2}&text3=${ll3}&theme=google-suggestion&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.url)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-			case 'battlefield': 
-			if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Pemuda|Teknologi`)
-					makell = args.join(" ")
-					ll1 = makell.split("|")[0];
-					ll2 = makell.split("|")[1];
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/game?text=${ll1}&text2=${ll2}&theme=battlefield&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.url)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-			case 'coffeecup': 
-			if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/senja?text=${makell}&theme=coffee-cup&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.url)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-			case 'coffeecup2': 
-			if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/senja?text=${makell}&theme=coffee-cup2&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.url)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-			case 'neon': 
-			if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/metallic?text=${makell}&theme=neon&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.url)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-case 'glow': 
-if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/metallic?text=${makell}&theme=glow&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.url)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-			case 'summer': 
-			if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/alam?text=${makell}&theme=summer&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.url)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-			case 'flower': 
-			if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/alam?text=${makell}&theme=flower&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.url)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-			case 'burn': 
-			if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/random?text=${makell}&theme=text-burn&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.url)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
-			case 'quote': 
-			if (!isGroup) return reply(mess.only.group)
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Chellstore`)
-					makell = args.join(" ")
-					reply(mess.wait)
-					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker/random?text=${makell}&theme=art-quote&apikey=${xchillds}`)
-					buffer1 = await getBuffer(anu.result.url)
-					pemuda.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./pemuda_1.jpg')})
-					break
+//══════════[ Fitur LolHuman ]══════════//       
+case 'blackpink':
+                    case 'neon':
+                    case 'greenneon':
+                    case 'advanceglow':
+                    case 'futureneon':
+                    case 'sandwriting':
+                    case 'sandsummer':
+                    case 'sandengraved':
+                    case 'metaldark':
+                    case 'neonlight':
+                    case 'text1917':
+                    case 'minion':
+                    case 'deluxesilver':
+                    case 'newyearcard':
+                    case 'bloodfrosted':
+                    case 'halloween':
+                    case 'jokerlogo':
+                    case 'fireworksparkle':
+                    case 'natureleaves':
+                    case 'bokeh':
+                    case 'strawberry':
+                    case 'box3d':
+                    case 'roadwarning':
+                    case 'breakwall':
+                    case 'icecold':
+                    case 'luxury':
+                    case 'cloud':
+                    case 'summersand':
+                    case 'horrorblood':
+                    
+                    if (args.length == 0) return reply(`Example: ${prefix + command} Fiannsaa`)
+                    ini_txt = args.join(" ")
+                    ini_buffer = await getBuffer(`http://api.lolhuman.xyz/api/textprome/${command}?apikey=${lolkey}&text=${ini_txt}`)
+                    pemuda.sendMessage(from, ini_buffer, image, { quoted: troli})
+                     break
+                     case 'wetglass':
+                case 'multicolor3d':
+                case 'watercolor':
+                case 'luxurygold':
+                case 'galaxywallpaper':
+                case 'lighttext':
+                case 'beautifulflower':
+                case 'puppycute':
+                case 'royaltext':
+                case 'heartshaped':
+                case 'birthdaycake':
+                case 'galaxystyle':
+                case 'hologram3d':
+                case 'greenneon':
+                case 'glossychrome':
+                case 'greenbush':
+                case 'metallogo':
+                case 'noeltext':
+                case 'glittergold':
+                case 'textcake':
+                case 'starsnight':
+                case 'wooden3d':
+                case 'textbyname':
+                case 'writegalacy':
+                case 'galaxybat':
+                case 'snow3d':
+                case 'birthdayday':
+                case 'goldplaybutton':
+                case 'silverplaybutton':
+                
+                    if (args.length == 0) return reply(`Example: ${prefix + command} LoL Human`)
+                    ini_txt = args.join(" ")
+                    getBuffer(`https://api.lolhuman.xyz/api/ephoto1/${command}?apikey=${lolkey}&text=${ini_txt}`).then((gambar) => {
+                        pemuda.sendMessage(from, gambar, image, { quoted: mek })
+                    })
+                    break
+                    case 'shadow':
+                case 'cup':
+                case 'cup1':
+                case 'romance':
+                case 'smoke':
+                case 'burnpaper':
+                case 'lovemessage':
+                case 'undergrass':
+                case 'love':
+                case 'coffe':
+                case 'woodheart':
+                case 'woodenboard':
+                case 'summer3d':
+                case 'wolfmetal':
+                case 'nature3d':
+                case 'underwater':
+                case 'golderrose':
+                case 'summernature':
+                case 'letterleaves':
+                case 'glowingneon':
+                case 'fallleaves':
+                case 'flamming':
+                case 'harrypotter':
+                case 'carvedwood':
+                
+                    if (args.length == 0) return reply(`Example: ${prefix + command} LoL Human`)
+                    ini_txt = args.join(" ")
+                    getBuffer(`https://api.lolhuman.xyz/api/photooxy1/${command}?apikey=${lolkey}&text=${ini_txt}`).then((gambar) => {
+                        pemuda.sendMessage(from, gambar, image, { quoted: mek })
+                    })
+                    break
 
 case 'stickmeme':
   case 'smeme':
@@ -3136,14 +3058,35 @@ break
 					break 
 					
 					case 'infogempa':
-					
-					if (!isGroup) return reply(mess.only.group)
-					anu = await fetchJson(`https://bx-hunter.herokuapp.com/api/info/gempa?apikey=${HunterApi}`, {method: 'get'})
-					gempa = `⬣ *INFO GEMPA*\n\n⬣ Waktu : ${anu.result.Waktu}\n⬣ Lintang : ${anu.result.Lintang}\n⬣ Bujur : ${anu.result.Bujur}\n⬣ Magnitudo : ${anu.result.Magnitudo}\n⬣ Kedalaman : ${anu.result.Kedalaman}\n⬣ Wilayah : ${anu.result.Wilayah}`
-					reply(mess.wait)
-					buff = await getBuffer(anu.result.Map)
-					pemuda.sendMessage(from, buff, image, {quoted: ftok, caption: gempa})
-					break 
+
+get_result = await fetchJson(`https://api.lolhuman.xyz/api/infogempa?apikey=${lolkey}`)
+get_result = get_result.result
+ini_txt = `*Lokasi* : ${get_result.lokasi}\n`
+ini_txt += `*Waktu* : ${get_result.waktu}\n`
+ini_txt += `*Potensi* : ${get_result.potensi}\n`
+ini_txt += `*Magnitude* : ${get_result.magnitude}\n`
+ini_txt += `*Kedalaman* : ${get_result.kedalaman}\n`
+ini_txt += `*Koordinat* : ${get_result.koordinat}`
+get_buffer = await getBuffer(get_result.map)
+await pemuda.sendMessage(from, get_buffer, image, { quoted: mek, caption: ini_txt })
+break
+case 'cuaca':
+
+if (args.length == 0) return reply(`Nama Kotanya Mana Tod\nContoh: ${prefix + command} Temanggung`)
+daerah = args[0]
+get_result = await fetchJson(`https://api.lolhuman.xyz/api/cuaca/${daerah}?apikey=${lolkey}`)
+get_result = get_result.result
+ini_txt = `*Tempat* : ${get_result.tempat}\n`
+ini_txt += `*Cuaca* : ${get_result.cuaca}\n`
+ini_txt += `*Angin* : ${get_result.angin}\n`
+ini_txt += `*Description* : ${get_result.description}\n`
+ini_txt += `*Kelembapan* : ${get_result.kelembapan}\n`
+ini_txt += `*Suhu* : ${get_result.suhu}\n`
+ini_txt += `*Udara* : ${get_result.udara}\n`
+ini_txt += `*Permukaan laut* : ${get_result.permukaan_laut}\n`
+await pemuda.sendMessage(from, { degreesLatitude: get_result.latitude, degreesLongitude: get_result.longitude }, location, { quoted: mek })
+reply(ini_txt)
+break
 				case 'dadu':
 				if (!isGroup) return reply(mess.only.group)
 			random = Math.floor(Math.random() * 6) + 1
@@ -5115,104 +5058,65 @@ pemuda.sendMessage(from, 'yaudah oke',text, {
  }
 })
 break
+                 case 'ytsearch':
+                    if (args.length == 0) return reply(`Example: ${prefix + command} Melukis Senja`)
+                    query = args.join(" ")
+                    get_result = await fetchJson(`https://api.lolhuman.xyz/api/ytsearch?apikey=${lolkey}&query=${query}`)
+                    get_result = get_result.result
+                    ini_txt = ""
+                    for (var x of get_result) {
+                        ini_txt += `Title : ${x.title}\n`
+                        ini_txt += `Views : ${x.views}\n`
+                        ini_txt += `Published : ${x.published}\n`
+                        ini_txt += `Thumbnail : ${x.thumbnail}\n`
+                        ini_txt += `Link : https://www.youtube.com/watch?v=${x.videoId}\n\n`
+                    }
+                    reply(ini_txt)
+                    break
+                case 'ytmp3':
+                    if (args.length == 0) return reply(`Example: ${prefix + command} https://www.youtube.com/watch?v=qZIQAk-BUEc`)
+                    ini_link = args[0]
+                    get_result = await fetchJson(`https://api.lolhuman.xyz/api/ytaudio2?apikey=${lolkey}&url=${ini_link}`)
+                    get_result = get_result.result
+                    caption = `❖ Title    : *${get_result.title}*\n`
+                    caption += `❖ Size     : *${get_result.size}*`
+                    ini_buffer = await getBuffer(get_result.thumbnail)
+                    await pemuda.sendMessage(from, ini_buffer, image, { quoted: mek, caption: ini_txt })
+                    get_audio = await getBuffer(get_result.link)
+                    await pemuda.sendMessage(from, get_audio, audio, { mimetype: 'audio/mp4', filename: `${get_result.title}.mp3`, quoted: mek })
+                    break
                 case 'ytmp4':
-                if (!isGroupAdmins) return reply(mess.only.admin)
-                if (!isGroup) return reply(mess.only.group)
-						if (args.length === 0) return reply(`Kirim perintah *${prefix}ytmp4 [linkYt]*`)
-						let isLinks2 = args[0].match(/(?:https?:\/{2})?(?:w{3}\.)?youtu(?:be)?\.(?:com|be)(?:\/watch\?v=|\/)([^\s&]+)/)
-						if (!isLinks2) return reply(mess.error.Iv)
-						try {
-							reply(mess.wait)
-							ytv(args[0])
-							.then((res) => {
-								const { dl_link, thumb, title, filesizeF, filesize } = res
-								axios.get(`https://tinyurl.com/api-create.php?url=${dl_link}`)
-								.then((a) => {
-								if (Number(filesize) >= 40000) return sendMediaURL(from, thumb, `⬣ *YTmp4*\n\n⬣ *Title* : ${title}\n⬣ *Ext* : MP3\n*Filesize* : ${filesizeF}\n*Link* : ${a.data}\n\n_Maaf durasi melebihi batas maksimal, Silahkan klik link diatas_`)
-								sendFileFromUrl(dl_link, document, {mimetype: 'video/mp4', filename: `${title}.mp4`, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title:title,body:"",mediaType:"2",thumbnail:getBuffer(thumb),mediaUrl:`${body.slice(7)}`}}}).catch(() => reply(mess.error.api))
-							})
-							})
-						} catch (err) {
-							reply(mess.error.api)
-						}
-						break
-						case 'ytsearch':
-            if (!args.length) return reply('Judulnya apa kak?')
-            try {
-            	reply(mess.wait)
-                const input = args.join(" ")
-                const filter1 = await ytsd.getFilters(input)
-                const filters1 = filter1.get('Type').get('Video')
-                const { items } = await ytsd(filters1.url, { limit: 10 })
-                let hehe = `┌ ◪ *YOUTUBE SEARCH*
-└ *Search Query:* ${input}\n\n`
-                for (let i = 0; i < items.length; i++) {
-                    hehe += `───────────────\n
-┌ ⬣ *Judul:* ${items[i].title}
-• _⬣ *Id:* ${items[i].id}
-• _⬣ *Ditonton:* ${items[i].views}
-• _⬣ *Durasi:* ${items[i].duration}
-└ ⬣ *Link:* ${items[i].url}\n\n`
-                }
-                thumb = await getBuffer(items[0].bestThumbnail.url)
-                await pemuda.sendMessage(from, thumb, image, {quoted: mek, caption: `${hehe}───────────────\n\n┌ ◪ *DOWNLOAD*
-• _${prefix}ytmp3 [link yt] = Audio
-└ ${prefix}ytmp4 [link yt] = Video`})
-            } catch(e) {
-                reply('Didn\'t find anything or there is any error!')
-                reply(`Error: ${e.message}`)
-            }
-            break
-					case 'ytmp3':
-					if (!isGroupAdmins) return reply(mess.only.admin)
-					if (!isGroup) return reply(mess.only.group)
-						if (args.length === 0) return reply(`Kirim perintah *${prefix}ytmp3 [linkYt]*`)
-						let isLinks = args[0].match(/(?:https?:\/{2})?(?:w{3}\.)?youtu(?:be)?\.(?:com|be)(?:\/watch\?v=|\/)([^\s&]+)/)
-						if (!isLinks) return reply(mess.error.Iv)
-						try {
-							reply(mess.wait)
-							yta(args[0])
-							.then((res) => {
-								const { dl_link, thumb, title, filesizeF, filesize } = res
-								axios.get(`https://tinyurl.com/api-create.php?url=${dl_link}`)
-								.then((a) => {
-								if (Number(filesize) >= 30000) return sendMediaURL(from, thumb, `⬣ *YTmp3*\n\n⬣ *Title* : ${title}\n⬣ *Ext* : MP3\n*Filesize* : ${filesizeF}\n*Link* : ${a.data}\n\n_Maaf durasi melebihi batas maksimal, Silahkan klik link diatas_`)
-								sendFileFromUrl(dl_link, document, {mimetype: 'audio/mp3', filename: `${title}.mp3`, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title:title,body:"",mediaType:"2",thumbnail:getBuffer(thumb),mediaUrl:`${body.slice(7)}`}}}).catch(() => reply(mess.error.api))
-							})
-					        })
-						} catch (err) {
-							reply(mess.error.api)
-						}
-						break
+                    if (args.length == 0) return reply(`Example: ${prefix + command} https://www.youtube.com/watch?v=qZIQAk-BUEc`)
+                    ini_link = args[0]
+                    get_result = await fetchJson(`https://api.lolhuman.xyz/api/ytvideo2?apikey=${lolkey}&url=${ini_link}`)
+                    get_result = get_result.result
+                    ini_txt = `${get_result.title} - ${get_result.size}`
+                    ini_buffer = await getBuffer(get_result.thumbnail)
+                    await pemuda.sendMessage(from, ini_buffer, image, { quoted: mek, caption: ini_txt })
+                    get_audio = await getBuffer(get_result.link)
+                    await pemuda.sendMessage(from, get_audio, video, { mimetype: 'video/mp4', filename: `${get_result.title}.mp4`, quoted: mek })
+                    break
 
 	case 'play':
 	case 'music':
 	case 'musik':
-	case 'ytmp3':	
-if (!isGroup) return reply(mess.only.group)
-			if (args.length === 0) return reply(`Kirim perintah *${prefix}play* _Judul lagu yang akan dicari_`)
-
-            var srch = args.join('')
-    		aramas = await yts(srch);
-    		aramat = aramas.all 
-   			var mulaikah = aramat[0].url							
-                  try {
-                    yta(mulaikah)
-                    .then((res) => {
-                        const { dl_link, thumb, title, filesizeF, filesize } = res
-                        axios.get(`https://tinyurl.com/api-create.php?url=${dl_link}`)
-                           
-                        .then(async (a) => {
-                        if (Number(filesize) >= 100000) return sendMediaURL(from, thumb, `.•♫•♬• *PLAYING MUSIC* .•♫•♬•\n\n📜𝙏𝙞𝙩𝙡𝙚: ${title}\n🎁𝙏𝙮𝙥𝙚 : mp3\n𝙁𝙞𝙡𝙚 𝙎𝙞𝙯𝙚 : ${filesizeF}\n🖇𝙇𝙞𝙣𝙠 ${a.data}\n\n_Untuk durasi lebih dari batas disajikan dalam mektuk link_`)
-                        const captions = `.•♫•♬• *PLAYING MUSIC* .•♫•♬•\n\n📜𝙏𝙞𝙩𝙡𝙚: ${title}\n🎁𝙏𝙮𝙥𝙚 : mp3\n𝙁𝙞𝙡𝙚 𝙎𝙞𝙯𝙚 : ${filesizeF}\n🖇𝙇𝙞𝙣𝙠 ${a.data}\n\n_Untuk durasi lebih dari batas disajikan dalam bentuk link_`
-                        sendMediaURL(from, thumb, captions)
-                        await sendMediaURL(from, dl_link).catch(() => reply('error'))
-                        })                
+case 'ytplay':
+                    if (args.length == 0) return await reply(`Example: ${prefix + command} melukis senja`)
+                    await fetchJson(`https://api.lolhuman.xyz/api/ytsearch?apikey=${lolkey}&query=${args.join(" ")}`)
+                        .then(async(result) => {
+                            await fetchJson(`https://api.lolhuman.xyz/api/ytaudio2?apikey=${lolkey}&url=https://www.youtube.com/watch?v=${result.result[0].videoId}`)
+                                .then(async(result) => {
+                                    result = result.result
+                                    caption = `❖ *Title*    : ${result.title}\n`
+                                    caption += `❖ *Size*     : ${result.size}`
+                                    ini_buffer = await getBuffer(result.thumbnail)
+                                    await pemuda.sendMessage(from, ini_buffer, image, { quoted: mek, caption: caption })
+                                    get_audio = await getBuffer(result.link)
+                                    await pemuda.sendMessage(from, get_audio, audio, { mimetype: 'audio/mp4', filename: `${result.title}.mp3`, quoted: mek })
+                                })
                         })
-                        } catch (err) {
-                        reply(mess.error.api)
-                        }
-                   break
+                    break
+                    
                             case 'video':
                             if (!isGroupAdmins) return reply(mess.only.admin)
                             if (!isGroup) return reply(mess.only.group)
@@ -7372,7 +7276,8 @@ https://wa.me/62896465831949
 
 *- 🛡️ 𝗍ᥱs𝗍іm᥆ᥒі*
 https://instagram.com/chelllstore?utm_medium=copy_link
-
+
+
 (ᥒ) ȷᥲsᥲ sһᥲrᥱ ᑲᥱrᥙ⍴ᥲ 𝗍ᥱks/ᥣіs𝗍, 𝗍іძᥲk mᥱᥒᥱrіmᥲ gᥲmᑲᥲr ᥲ𝗍ᥲᥙ 𝖿᥆𝗍᥆.
 
 *║▌│█║▌│ █║▌│█│║▌*
